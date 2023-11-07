@@ -25,3 +25,15 @@ function greetUser(user = "Guest") {
   console.log("Hello, " + user + "!");
 }
 ```
+
+## Work experience
+
+For now, I don't have any work experience. I'm going to get some after finishing the course.
+
+## Education
+
+- 11 grades of school
+
+## English
+
+My English level is **A1**. I'm studying to improve it.
